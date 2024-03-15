@@ -1,16 +1,8 @@
-# test_a10
+#drawer 
+#scroll the drawer by click or click any page to go details.
+![](TEST_A10/lib/images/Screenshot_1710481325.png)
+#click to enter in contact page or go back.
+![](TEST_A10/lib/images/Screenshot_1710481318.png)
+#Contacts from the text field
+![](TEST_A10/lib/images/Screenshot_1710481292.png)
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
